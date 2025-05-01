@@ -40,20 +40,7 @@ This repository contains a complete Business Intelligence solution for Adventure
 - ✅ Dashboard Design & KPI Tracking
 - ✅ Customer and Product Segmentation
 
----
 
-## 📸 Sample Dashboard
-
-![Dashboard Screenshot](assets/dashboard_overview.png)
-
----
-
-## 🚀 Getting Started
-
-1. Clone this repository.
-2. Open the `.pbix` file in Power BI Desktop.
-3. Refresh the data source or relink CSVs from the `data/` folder.
-4. Explore and customize as needed.
 
 ---
 
